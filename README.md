@@ -44,7 +44,7 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ### Register Number: 212224240162
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
